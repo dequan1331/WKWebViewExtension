@@ -70,7 +70,3 @@ iOS 8.0 or later
 ## Licenses
 
 All source code is licensed under the [MIT License](https://github.com/dequan1331/WKWebViewExtension/blob/master/LICENSE).
-
-## Contact
-
-<img src="./contact.png">
